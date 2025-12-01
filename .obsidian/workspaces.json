@@ -711,7 +711,245 @@
       },
       "active": "2cc74fa977e008d0",
       "mtime": "2025-12-01T09:47:38+08:00"
+    },
+    "数据结构9": {
+      "main": {
+        "id": "4a8dab3234331b63",
+        "type": "split",
+        "children": [
+          {
+            "id": "279fcd7d06322e2f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "978bf3b520cf30a4",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "大二上Note/数据结构/Chapter9-10教材.pdf",
+                    "page": 1,
+                    "left": -18,
+                    "top": 846,
+                    "zoom": 0.8743196789236094
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Chapter9-10教材"
+                }
+              }
+            ]
+          },
+          {
+            "id": "7e2f611de771b209",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0835c180968d8c6b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "大二上Note/数据结构/第9章 排序.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "第9章 排序"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "bab32cfd724867a8",
+        "type": "split",
+        "children": [
+          {
+            "id": "5569d0c72a7f4017",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4e943dfd21fc6e49",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "文件列表"
+                }
+              },
+              {
+                "id": "d8cccd39b62ed62e",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "搜索"
+                }
+              },
+              {
+                "id": "5b895b3b32ca967c",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "书签"
+                }
+              },
+              {
+                "id": "b627533359a31f4c",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {},
+                  "icon": "clock",
+                  "title": "Recent Files"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "right": {
+        "id": "9f8b19381eacc5f4",
+        "type": "split",
+        "children": [
+          {
+            "id": "c356da405d28213a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "fd380194c7f8f1b2",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Drawing 2025-11-26 23.44.59.excalidraw.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Drawing 2025-11-26 23.44.59.excalidraw 的反向链接列表"
+                }
+              },
+              {
+                "id": "b1e0d440ceac8e26",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Drawing 2025-11-26 23.44.59.excalidraw.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Drawing 2025-11-26 23.44.59.excalidraw 的出链列表"
+                }
+              },
+              {
+                "id": "ded68d2362c02761",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "标签"
+                }
+              },
+              {
+                "id": "5769fb7ff591ba8f",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "添加笔记属性"
+                }
+              },
+              {
+                "id": "ff7a8eefb03d4ca3",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Drawing 2025-11-26 23.44.59.excalidraw.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Drawing 2025-11-26 23.44.59.excalidraw 的大纲"
+                }
+              },
+              {
+                "id": "bd349ea08d780d73",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {},
+                  "icon": "spreadsheet",
+                  "title": "Advanced Tables"
+                }
+              }
+            ],
+            "currentTab": 5
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian-git:Open Git source control": false,
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "obsidian-excalidraw-plugin:新建绘图文件": false,
+          "canvas:新建白板": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "bases:创建新数据库": true,
+          "workspaces:管理工作区布局": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": true,
+          "pdf-plus:PDF++: Toggle auto-copy": false,
+          "pdf-plus:PDF++: Toggle auto-focus": true,
+          "pdf-plus:PDF++: Toggle auto-paste": false
+        }
+      },
+      "active": "0835c180968d8c6b",
+      "mtime": "2025-12-01T13:51:37+08:00"
     }
   },
-  "active": "概率统计8"
+  "active": "数据结构9"
 }

@@ -14,5 +14,13 @@
       ],
       "key": "S"
     }
+  ],
+  "outline:open-for-current": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "O"
+    }
   ]
 }

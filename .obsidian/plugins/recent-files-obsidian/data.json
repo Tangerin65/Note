@@ -1,12 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "复习",
-      "path": "大二上Note/汇编语言/复习.md"
+      "basename": "13-欧拉图&哈密顿图",
+      "path": "大二上Note/离散数学/13-欧拉图&哈密顿图.md"
+    },
+    {
+      "basename": "Chapter13教材",
+      "path": "大二上Note/离散数学/Chapter13教材.pdf"
+    },
+    {
+      "basename": "Chapter9教材",
+      "path": "大二上Note/概率统计/Chapter9教材.pdf"
+    },
+    {
+      "basename": "Chapter8教材",
+      "path": "大二上Note/概率统计/Chapter8教材.pdf"
+    },
+    {
+      "basename": "第7章 统计量和抽样分布定理",
+      "path": "大二上Note/概率统计/第7章 统计量和抽样分布定理.md"
+    },
+    {
+      "basename": "Chapter7剩余部分教材",
+      "path": "大二上Note/概率统计/Chapter7剩余部分教材.pdf"
     },
     {
       "basename": "都四线路进度",
       "path": "Excalidraw/都四线路进度.md"
+    },
+    {
+      "basename": "Chapter10教材",
+      "path": "大二上Note/概率统计/Chapter10教材.pdf"
+    },
+    {
+      "basename": "复习",
+      "path": "大二上Note/汇编语言/复习.md"
     },
     {
       "basename": "第9章笔记：DMA传送&8237A芯片",
@@ -15,14 +43,6 @@
     {
       "basename": "微机接口Chapter9",
       "path": "大二上Note/微机接口/微机接口Chapter9.pdf"
-    },
-    {
-      "basename": "Chapter13教材",
-      "path": "大二上Note/离散数学/Chapter13教材.pdf"
-    },
-    {
-      "basename": "13-欧拉图&哈密顿图",
-      "path": "大二上Note/离散数学/13-欧拉图&哈密顿图.md"
     },
     {
       "basename": "第9章 排序",
@@ -37,20 +57,8 @@
       "path": "大二上Note/概率统计/第8章 参数估计.md"
     },
     {
-      "basename": "Chapter8教材",
-      "path": "大二上Note/概率统计/Chapter8教材.pdf"
-    },
-    {
       "basename": "Draft",
       "path": "大二上Note/概率统计/Draft.md"
-    },
-    {
-      "basename": "第7章 统计量和抽样分布定理",
-      "path": "大二上Note/概率统计/第7章 统计量和抽样分布定理.md"
-    },
-    {
-      "basename": "Chapter7剩余部分教材",
-      "path": "大二上Note/概率统计/Chapter7剩余部分教材.pdf"
     },
     {
       "basename": "Markdown-Testing",

@@ -38,7 +38,7 @@
   "overrideObsidianFontSize": false,
   "dynamicStyling": "colorful",
   "isLeftHanded": false,
-  "desktopUIMode": "tray",
+  "desktopUIMode": "compact",
   "tabletUIMode": "compact",
   "iframeMatchExcalidrawTheme": true,
   "matchTheme": true,
@@ -50,7 +50,7 @@
   "penModeSingleFingerPanning": true,
   "penModeCrosshairVisible": true,
   "panWithRightMouseButton": false,
-  "renderImageInMarkdownReadingMode": false,
+  "renderImageInMarkdownReadingMode": true,
   "renderImageInHoverPreviewForMDNotes": false,
   "renderImageInMarkdownToPDF": false,
   "allowPinchZoom": false,
@@ -801,7 +801,7 @@
       "key": "G"
     }
   ],
-  "showSplashscreen": true,
+  "showSplashscreen": false,
   "pdfSettings": {
     "pageSize": "A4",
     "pageOrientation": "portrait",

@@ -9,6 +9,10 @@
       "path": "Excalidraw/都四线路进度.md"
     },
     {
+      "basename": "微机接口Chapter9",
+      "path": "大二上Note/微机接口/微机接口Chapter9.pdf"
+    },
+    {
       "basename": "14-代数系统",
       "path": "大二上Note/离散数学/14-代数系统.md"
     },
@@ -63,10 +67,6 @@
     {
       "basename": "复习",
       "path": "大二上Note/汇编语言/复习.md"
-    },
-    {
-      "basename": "微机接口Chapter9",
-      "path": "大二上Note/微机接口/微机接口Chapter9.pdf"
     },
     {
       "basename": "第9章 排序",

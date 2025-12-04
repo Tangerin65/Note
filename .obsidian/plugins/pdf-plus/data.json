@@ -1,10 +1,6 @@
 {
   "displayTextFormats": [
     {
-      "name": "Title & page",
-      "template": "{{file.basename}}, p.{{pageLabel}}"
-    },
-    {
       "name": "Page",
       "template": "p.{{pageLabel}}"
     },
